@@ -1,5 +1,3 @@
-import math
-
 menu = """
 
 [d] Depositar
